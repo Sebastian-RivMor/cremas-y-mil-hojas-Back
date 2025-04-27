@@ -1,0 +1,7 @@
+{
+    "name": "sebastian/cremas-y-mil-hojas",
+    "description": "Proyecto con autenticación de Google en PHP",
+    "require": {
+        "google/apiclient": "*"
+    }
+}
